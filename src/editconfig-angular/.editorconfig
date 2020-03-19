@@ -1,0 +1,12 @@
+# EditorConfig is awesome: http://editorconfig.org
+
+root = true
+
+# Typescript files.
+[*.ts]
+charset = utf-8
+indent_style = tabs
+indent_size = 4
+insert_final_newline = true
+spaces_around_brackets = inside
+trim_trailing_whitespace = true

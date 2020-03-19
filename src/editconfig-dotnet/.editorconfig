@@ -2,8 +2,6 @@
 # Based on https://github.com/dotnet/roslyn/blob/master/.editorconfig
 # See reference https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference
 
-# EditorConfig is awesome: https://EditorConfig.org
-
 # top-most EditorConfig file
 root = true
 
